@@ -8,7 +8,12 @@
 🔴 [Röd commit] - [https://github.com/Joelsmeden/blockchain-backend-inl-2/commit/ce526aeab0349bd1cd095b702eeff0e488e9f55c] – .
 🟢 [Grön commit] - [https://github.com/Joelsmeden/blockchain-backend-inl-2/commit/f6f8f8839e633ebb38a10b96f7a07cb85b882678] – .
 
-2 Blockchain.js
+3 Blockchain.js
 
 🔴 [Röd commit] - [https://github.com/Joelsmeden/blockchain-backend-inl-2/commit/f0052f6464a54a00f8a5a3e961222f21cf97fc66] – .
 🟢 [Grön commit] - [https://github.com/Joelsmeden/blockchain-backend-inl-2/commit/cb6e123e43d33b28e4140f85ae669fc20280b0e1] – .
+
+4 errorHandler.js
+
+🔴 [Röd commit] - [https://github.com/Joelsmeden/blockchain-backend-inl-2/commit/bfca6fe4d32a3ca7c5bb95f4b362f37facfea07f] – .
+🟢 [Grön commit] - [länk kommer...] – .
