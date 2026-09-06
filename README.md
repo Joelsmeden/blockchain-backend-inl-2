@@ -16,4 +16,9 @@
 4 errorHandler.js
 
 🔴 [Röd commit] - [https://github.com/Joelsmeden/blockchain-backend-inl-2/commit/bfca6fe4d32a3ca7c5bb95f4b362f37facfea07f] – .
-🟢 [Grön commit] - [länk kommer...] – .
+🟢 [Grön commit] - [https://github.com/Joelsmeden/blockchain-backend-inl-2/commit/30c747ddb0c127bcd2df46b8a3f3538ec0c23232] – .
+
+5 app.js
+
+🔴 [Röd commit] - [Länk kommer...] – .
+🟢 [Grön commit] - [Länk kommer...] – .
