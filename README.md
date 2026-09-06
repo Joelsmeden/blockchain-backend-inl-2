@@ -20,5 +20,5 @@
 
 5 app.js
 
-🔴 [Röd commit] - [Länk kommer...] – .
+🔴 [Röd commit] - [https://github.com/Joelsmeden/blockchain-backend-inl-2/commit/e7246e533949793a72755031bf3efcc823c857d7] – .
 🟢 [Grön commit] - [Länk kommer...] – .
