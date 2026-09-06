@@ -11,4 +11,4 @@
 2 Blockchain.js
 
 🔴 [Röd commit] - [https://github.com/Joelsmeden/blockchain-backend-inl-2/commit/f0052f6464a54a00f8a5a3e961222f21cf97fc66] – .
-🟢 [Grön commit] - [Länk kommer...] – .
+🟢 [Grön commit] - [https://github.com/Joelsmeden/blockchain-backend-inl-2/commit/cb6e123e43d33b28e4140f85ae669fc20280b0e1] – .
